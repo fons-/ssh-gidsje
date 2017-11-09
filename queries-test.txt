@@ -1,0 +1,1 @@
+werkwoord = """ @root="sleep" or @root="zaag" or @root="huur_in" """
